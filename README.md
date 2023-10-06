@@ -1,5 +1,11 @@
 # Google-Data-Analytics-Specialization
 Notes on Googles Data Analytics Specialization
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 ## Foundation: Data, Data Everyone
 Before you write an entry in your learning log, think about where and how you use data to make decisions. You will create a list of at least five questions that you might use data to answer. Here are a few examples to inspire you:
 -What’s the best time to go to the gym?
